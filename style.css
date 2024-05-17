@@ -1,0 +1,102 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+h1{
+    font-size: 1.8rem;
+    font-weight: 900;
+}
+.ai{
+    font-size: 1.9rem;
+    margin-right: 1rem;
+    font-family:cursive;
+}
+.onderline{
+    width: 150px;
+    height: 3px;
+    margin-left: 4rem;
+    margin-left: 11rem;
+    background-color: #888784;
+
+}
+.tittle{
+    margin-top: 6rem;
+    text-align: center;
+}
+.article{
+    width: 500px;
+    height: 440px;
+    border: 1px solid #b68e09;
+    margin-left: 36rem;
+    margin-top: 2rem;
+    border-radius:1.5rem;
+    background-color: #f8f5ec;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+}
+.img-container{
+    margin-left:12rem;
+    margin-top: 2rem;
+}
+img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+h3{
+    font-size:1.5rem;
+    text-align: center;
+    color: #888784;
+}
+#icon{
+    margin-top:10px;
+    font-size: 3rem;
+    text-align: center;
+    color:#b68e09;
+}
+#job{
+    margin-top:10px;
+    font-size:1.5rem;
+    text-align: center;
+}
+#info{
+    text-align: center;
+    padding:1rem 2rem;
+}
+.button-container{
+    display: flex;
+    gap: 2rem;
+    text-align: center;
+    margin-top: 1rem;  
+    margin-left: 14rem; 
+}
+.btn{
+    font-size: 1.4rem;
+    border: none;
+    color: #b68e09;
+}
+.next-btn{
+    font-size: 1.4rem;
+    border: none;
+    color: #b68e09;
+}
+.random-btn{
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 1rem;
+    background-color: black;
+    color: white;
+}
+.random-btn:hover{
+    background-color:white;
+    color: black;
+}
+.experince{
+    margin-left: 36rem;
+    width: 500px;
+    text-align: center;
+    margin-top: 2.5rem;
+}
+
